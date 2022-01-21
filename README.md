@@ -1,6 +1,7 @@
-# DSGN-a2-Convention-Treasure-Hunt
+# DSGN270-a2 Convention Treasure Hunt
 ## Navigation Screenshot Of SPORTCHEK
 
+![Screenshot (14)](https://user-images.githubusercontent.com/97467330/150467105-778b6907-6ce6-4e8e-aa8c-2ec80ef74de6.png)
 
 
 ### SPORTCHEK 
